@@ -39,7 +39,7 @@ metadata:
   name: mysql-db-creds
 type: Opaque
 data:
-  ROOT_PASSWORD: Z29lbHZpcwo=
+  ROOT_PASSWORD: Z29lbHZpcw==
   MYSQL_HOST: bXlzcWwtc2VydmljZQo=
 ---
 apiVersion: v1
